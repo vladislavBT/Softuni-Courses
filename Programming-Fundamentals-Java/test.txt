@@ -3,4 +3,5 @@ I'm new Peshoo
 Creating with Tourtoise
 I'm Gosho
 Adding someText
+Adding from myComputer 1st
 
