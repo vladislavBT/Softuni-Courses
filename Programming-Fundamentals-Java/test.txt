@@ -3,9 +3,6 @@ I'm new Peshoo
 Creating with Tourtoise
 I'm Gosho
 Adding someText
-<<<<<<< HEAD
 Adding from myComputer 1st
-
-=======
 Adding from gitHub 2nd
->>>>>>> fce9a30ba2315453676bf490b472c9dea6656146
+
