@@ -1,8 +1,6 @@
 I'm Peshoo
 I'm new Peshoo
 Creating with Tourtoise
-<<<<<<< HEAD
 I'm Gosho
-=======
 Adding someText
->>>>>>> 8dde263f2dfb604f063f96835048d91a4b0ec88f
+
